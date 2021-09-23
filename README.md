@@ -6,9 +6,9 @@
 
 
 
-https://github.com/geds3169/WINDOWS
-https://github.com/geds3169/LINUX
-https://github.com/geds3169/ANSIBLE
+* https://github.com/geds3169/WINDOWS
+* https://github.com/geds3169/LINUX
+* https://github.com/geds3169/ANSIBLE
 
 <!---
 geds3169/geds3169 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
